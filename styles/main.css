@@ -1,8 +1,15 @@
 body {
-    background-color: lightyellow;
+    background-color: #292e3e;
+    color: #97ffe9;
+    font-family: 'Rajdhani', sans-serif;
 }
 
 .container {
     margin: 0;
     text-align: center;
+}
+
+h1 {
+    font-size: 4em;
+    font-weight: 400;
 }

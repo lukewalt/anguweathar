@@ -13,3 +13,16 @@ h1 {
     font-size: 4em;
     font-weight: 400;
 }
+
+a {
+    color: orange;
+}
+a:hover {
+    color: #97ffe9;
+}
+
+input {
+    background-color: #97ffe9;
+    color: #292e3e;
+    font-weight: bold;
+}
